@@ -6,7 +6,7 @@ class nicksblocks {
       id: 'nicksblocks',
       name: "Nick's Blocks",
       menuIconURI: img,
-      blockIconURI : img,
+      blockIconURI: img,
       
       blocks: [
         {
