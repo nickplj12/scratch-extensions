@@ -4,7 +4,7 @@ class nicksblocks {
   getInfo() {
     return {
       id: 'nicksblocks',
-      name: 'Nick's Blocks',
+      name: "Nick's Blocks",
       menuIconURI: img,
       blockIconURI : img,
       
