@@ -8,7 +8,7 @@ class scratchplus {
       blocks: [
         {
           opcode: 'true',
-          blockType: Scratch.BlockType.REPORTER,
+          blockType: Scratch.BlockType.BOOLEAN,
           text: 'true'
         }
       ]
